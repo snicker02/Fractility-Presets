@@ -1,0 +1,161 @@
+{
+	"ap_c1_a": {
+		"x": 0.75,
+		"y": 0.839999973773956
+	},
+	"ap_c1_b": {
+		"x": -0.660000026226044,
+		"y": 0.5
+	},
+	"ap_c2_a": {
+		"x": -0.430000007152557,
+		"y": -0.170000001788139
+	},
+	"ap_c2_b": {
+		"x": -0.430000007152557,
+		"y": -0.239999994635582
+	},
+	"ap_c3_a": {
+		"x": 0.430000007152557,
+		"y": -0.689999997615814
+	},
+	"ap_c3_b": {
+		"x": 0.430000007152557,
+		"y": -0.5
+	},
+	"apollonian_scale_a": 1.93,
+	"apollonian_scale_b": 1.25,
+	"blur_amount_a": 0.0,
+	"blur_amount_b": 0.0,
+	"brightness": 1.38,
+	"cellular_weave_grid_size_a": 10.0,
+	"cellular_weave_grid_size_b": 10.0,
+	"cellular_weave_iterations_a": 1.0,
+	"cellular_weave_iterations_b": 1.0,
+	"cellular_weave_threshold_a": 4.0,
+	"cellular_weave_threshold_b": 4.0,
+	"circle_count": 4.0,
+	"circle_radius": 0.2,
+	"circle_softness": 0.05,
+	"contrast": 3.0,
+	"feedback_amount": 0.907,
+	"fisheye_strength_a": 2.0,
+	"fisheye_strength_b": 2.0,
+	"grad_col_bl": {
+		"a": 0.529411792755127,
+		"b": 1.0,
+		"g": 0.0,
+		"r": 0.0
+	},
+	"grad_col_br": {
+		"a": 0.521568655967712,
+		"b": 0.0,
+		"g": 0.0,
+		"r": 1.0
+	},
+	"grad_col_tl": {
+		"a": 0.196078434586525,
+		"b": 0.9609375,
+		"g": 0.596832275390625,
+		"r": 0.609265148639679
+	},
+	"grad_col_tr": {
+		"a": 1.0,
+		"b": 0.0,
+		"g": 0.32135009765625,
+		"r": 0.5078125
+	},
+	"heart_rotation_a": 0.0,
+	"heart_rotation_b": 0.0,
+	"heart_scale_a": 0.3,
+	"heart_scale_b": 0.3,
+	"heart_strength_a": 0.5,
+	"heart_strength_b": 0.5,
+	"julian_a_a": 1.0,
+	"julian_a_b": 1.0,
+	"julian_b_a": 0.0,
+	"julian_b_b": 0.0,
+	"julian_c_a": 0.0,
+	"julian_c_b": 0.0,
+	"julian_d_a": 1.0,
+	"julian_d_b": 1.0,
+	"julian_dist_a": 1.0,
+	"julian_dist_b": 1.0,
+	"julian_e_a": 0.0,
+	"julian_e_b": 0.0,
+	"julian_f_a": 0.0,
+	"julian_f_b": 0.0,
+	"julian_power_a": 2.0,
+	"julian_power_b": -3.0,
+	"mirror_tiling": false,
+	"mobius_im_a_a": 0.2,
+	"mobius_im_a_b": 0.2,
+	"mobius_im_b_a": -0.12,
+	"mobius_im_b_b": -0.12,
+	"mobius_im_c_a": -0.15,
+	"mobius_im_c_b": -0.15,
+	"mobius_im_d_a": 0.1,
+	"mobius_im_d_b": 0.1,
+	"mobius_re_a_a": 0.1,
+	"mobius_re_a_b": 0.1,
+	"mobius_re_b_a": 0.2,
+	"mobius_re_b_b": 0.2,
+	"mobius_re_c_a": -0.15,
+	"mobius_re_c_b": -0.15,
+	"mobius_re_d_a": 0.21,
+	"mobius_re_d_b": 0.21,
+	"move_post_translate": true,
+	"move_pre_translate": false,
+	"move_var_a_translate": false,
+	"move_var_b_translate": true,
+	"polar_offset_a": 1.0,
+	"polar_offset_b": 1.0,
+	"post_kaleidoscope_on": false,
+	"post_kaleidoscope_slices": 6.0,
+	"post_mirror_x": false,
+	"post_mirror_y": false,
+	"post_rotation": 2.3734073464102,
+	"post_scale": 0.604999999999999,
+	"post_translate": {
+		"x": -0.854165494441986,
+		"y": 0.388889849185944
+	},
+	"pre_rotation": 0.0,
+	"pre_scale": 0.67,
+	"pre_translate": {
+		"x": 0.0,
+		"y": 0.0
+	},
+	"reset_on_drag_enabled": true,
+	"saturation": 0.37,
+	"seamless_tiling": true,
+	"show_circles": true,
+	"show_start_grid": false,
+	"start_pattern_mode": 0,
+	"translate_a": {
+		"x": -0.576388895511627,
+		"y": -0.00462979078292847
+	},
+	"translate_b": {
+		"x": 0.137152597308159,
+		"y": 1.14814841747284
+	},
+	"var_a_kaleidoscope_slices": 6.0,
+	"var_a_mirror_x": false,
+	"var_a_mirror_y": false,
+	"var_b_kaleidoscope_slices": 6.0,
+	"var_b_mirror_x": false,
+	"var_b_mirror_y": false,
+	"variation_mix": 0.82,
+	"variation_mode_a": "Apollonian",
+	"variation_mode_b": "Apollonian",
+	"version": 1.1,
+	"wave_amplitude_a": 0.1,
+	"wave_amplitude_b": 0.1,
+	"wave_frequency_a": 0.0,
+	"wave_frequency_b": 5.0,
+	"wave_speed_a": 0.0,
+	"wave_speed_b": 0.0,
+	"wave_type_a": 0,
+	"wave_type_b": 0
+}
