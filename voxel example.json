@@ -1,0 +1,134 @@
+{
+	"animation_paused": false,
+	"as_twist": {
+		"x": 0.0,
+		"y": 0.0,
+		"z": 0.0
+	},
+	"as_wave_freq": {
+		"x": 4.0,
+		"y": 4.0,
+		"z": 4.0
+	},
+	"as_wave_str": {
+		"x": 0.0,
+		"y": 0.0,
+		"z": 0.0
+	},
+	"blur_amount_a": 0.0,
+	"blur_amount_b": 0.0,
+	"brightness": 1.0,
+	"camera_distance": 12.9,
+	"camera_fov": 75.0,
+	"camera_x_rotation": -32.0,
+	"camera_y_rotation": 0.0,
+	"camera_z_rotation": 0.0,
+	"circle_count": 4.0,
+	"circle_radius": 0.2,
+	"circle_softness": 0.05,
+	"contrast": 1.0,
+	"custom_bl_a": 0,
+	"custom_bl_b": 0,
+	"custom_br_a": 0,
+	"custom_br_b": 0,
+	"custom_tl_a": 0,
+	"custom_tl_b": 0,
+	"custom_tr_a": 0,
+	"custom_tr_b": 0,
+	"displacement_smoothness": 0.0,
+	"displacement_strength": 0.36,
+	"emission_strength": 0.0,
+	"feedback_amount": 0.8,
+	"feedback_max": 0.95,
+	"feedback_min": 0.0,
+	"grad_col_bl": {
+		"a": 1.0,
+		"b": 1.0,
+		"g": 0.0,
+		"r": 0.0
+	},
+	"grad_col_br": {
+		"a": 1.0,
+		"b": 0.0,
+		"g": 0.0,
+		"r": 1.0
+	},
+	"grad_col_tl": {
+		"a": 1.0,
+		"b": 1.0,
+		"g": 1.0,
+		"r": 0.0
+	},
+	"grad_col_tr": {
+		"a": 1.0,
+		"b": 0.0,
+		"g": 1.0,
+		"r": 1.0
+	},
+	"grade_background_active": false,
+	"height_offset": -0.5,
+	"light_color": {
+		"a": 1.0,
+		"b": 1.0,
+		"g": 1.0,
+		"r": 1.0
+	},
+	"light_energy": 1.0,
+	"light_shadows": true,
+	"light_x_rotation": -28.0,
+	"light_y_rotation": -4.0,
+	"limit_to_top": false,
+	"mirror_tiling": false,
+	"move_post_translate": true,
+	"move_pre_translate": false,
+	"move_var_a_translate": false,
+	"move_var_b_translate": false,
+	"normal_map_strength": 1.0,
+	"post_kaleidoscope_on": false,
+	"post_kaleidoscope_slices": 6.0,
+	"post_mirror_x": false,
+	"post_mirror_y": false,
+	"post_rotation": 0.0,
+	"post_scale": 0.995,
+	"post_translate": {
+		"x": 0.328092128038406,
+		"y": 0.402287065982819
+	},
+	"pre_rotation": 0.0,
+	"pre_scale": 1.0,
+	"pre_translate": {
+		"x": 0.0,
+		"y": 0.0
+	},
+	"reset_on_drag_enabled": true,
+	"saturation": 1.0,
+	"save_resolution_index": 1,
+	"seamless_tiling": true,
+	"shape_index": 9,
+	"show_2d_background": true,
+	"show_circles": true,
+	"show_start_grid": false,
+	"sinusoidal_scale_a": 3.142,
+	"sinusoidal_strength_a": 1.0,
+	"spherical_center_x_b": 0.0,
+	"spherical_center_y_b": 0.0,
+	"spherical_strength_b": 1.0,
+	"start_pattern_mode": 0,
+	"tex_int": 2.04,
+	"tex_scale": 1.0,
+	"translate_a": {
+		"x": 0.0,
+		"y": 0.0
+	},
+	"translate_b": {
+		"x": 0.0,
+		"y": 0.0
+	},
+	"use_dynamic_material": false,
+	"variation_mix": 0.5,
+	"variation_mode_a_id": 0,
+	"variation_mode_b_id": 1,
+	"version": 3.1,
+	"voxel_cube_scale": 0.211,
+	"voxel_resolution": 100
+}
